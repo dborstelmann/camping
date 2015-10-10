@@ -34,12 +34,14 @@
 - Rain jacket is a must and rain pants if you have them
 - Flashlight/Headlamp
 
+
 - It will make your life better if at least one of each below item is synthetic (NOT COTTON)
 > - T-shirts
 > - Underwear
 > - Pants
 > - Shorts
 > - Long-sleeve shirts (for sun, bugs)
+
 
 - Sun hat
 - Swimsuit
@@ -51,7 +53,6 @@
 - Gloves or mittens
 - Sandals
 - Towel
-
 - Books
 - Headphones
 - Phone Chargers
