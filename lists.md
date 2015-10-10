@@ -1,4 +1,4 @@
-# Food List
+## Food List
 
 - Coffee
 - Dry cereal/granola
@@ -23,7 +23,8 @@
 - Onions
 - Potatoes
 
-# Individual Supplies List *It's October, it can get cold as shit at night*
+## Individual Supplies List
+> *It's October, it can get cold as shit at night*
 
 - Sleeping Bag
 - Air Mattress Pad
@@ -61,7 +62,7 @@
 - Prescription medications
 - Toothbrush, *insert your personal hygiene needs here*
 
-# Group Supplies List *Dan's List*
+## Group Supplies List *(Dan's List)*
 
 - Swiss Army Knife
 - Pocket Knife
@@ -70,7 +71,7 @@
 - Soccer Ball or Football, frisbee maybe
 - First-aid kit
 
-# Gear List
+## Gear List
 
 - Tents (Alison's big tent and Danny's tent)
 - Grill (Alison)
