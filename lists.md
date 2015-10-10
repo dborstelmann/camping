@@ -27,21 +27,21 @@
 ## Individual Supplies List
 > *It's October, it can get cold as shit at night*
 
-- Sleeping Bag
-- Air Mattress Pad
-- Pillow
-- Daypack
-- As many water bottles as you have
-- Rain jacket is a must and rain pants if you have them
-- Flashlight/Headlamp
-
-
-- It will make your life better if at least one of each below item is synthetic (NOT COTTON)
-> - T-shirts
-> - Underwear
-> - Pants
-> - Shorts
-> - Long-sleeve shirts (for sun, bugs)
+> - Sleeping Bag
+> - Air Mattress Pad
+> - Pillow
+> - Daypack
+> - As many water bottles as you have
+> - Rain jacket is a must and rain pants if you have them
+> - Flashlight/Headlamp
+>
+>
+> - It will make your life better if at least one of each below item is synthetic (NOT COTTON)
+> - 1. T-shirts
+> > - 2. Underwear
+> - 3. Pants
+> - 4. Shorts
+> - 5. Long-sleeve shirts (for sun, bugs)
 
 
 - Sun hat
