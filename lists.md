@@ -23,6 +23,16 @@
 > - Spices
 > - Onions
 > - Potatoes
+> - Rice (Rice Pilaf and Couscous are easy)
+> - Pasta (To supplement one night)
+> - Pasta Sauce
+> - Brats and Hotdogs
+> - Veggie Burgers and Burgers
+> - Potato Chips
+> - Beer
+> - Gatorade
+> - Soda
+> - Vino
 
 ## Individual Supplies List
 > *It's October, it can get cold as shit at night*
