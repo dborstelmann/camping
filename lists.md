@@ -34,8 +34,6 @@
 > - As many water bottles as you have
 > - Rain jacket is a must and rain pants if you have them
 > - Flashlight/Headlamp
->
->
 > - It will make your life better if at least one of each below item is synthetic (NOT COTTON)
 > - 1. T-shirts
 > > - 2. Underwear
