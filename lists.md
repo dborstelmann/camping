@@ -1,29 +1,28 @@
 ## Food List
 
-- Coffee
-- Dry cereal/granola
-- Quick-fix oatmeal
-- Energy bars
-- Tea
-- Eggs and Bacon/Sausage if we feel the need to go that route
-> *(Sausage is infinitely easier than bacon)*
-
-- Hot Chocolate
-- Jerky
-- Summer Sausage
-- Peanut butter
-- Carrots and Veggies
-- Cooking oil
-- Salt/pepper
-- Bouillon cubes
-- Crackers/chips
-- Cheese
-- Chocolate
-- Marshmallows
-- Graham Crackers
-- Spices
-- Onions
-- Potatoes
+> - Coffee
+> - Dry cereal/granola
+> - Quick-fix oatmeal
+> - Energy bars
+> - Tea
+> - Eggs and Bacon/Sausage if we feel the need to go that route
+> > *(Sausage is infinitely easier than bacon)*
+> - Hot Chocolate
+> - Jerky
+> - Summer Sausage
+> - Peanut butter
+> - Carrots and Veggies
+> - Cooking oil
+> - Salt/pepper
+> - Bouillon cubes
+> - Crackers/chips
+> - Cheese
+> - Chocolate
+> - Marshmallows
+> - Graham Crackers
+> - Spices
+> - Onions
+> - Potatoes
 
 ## Individual Supplies List
 > *It's October, it can get cold as shit at night*
