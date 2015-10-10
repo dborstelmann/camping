@@ -5,7 +5,9 @@
 - Quick-fix oatmeal
 - Energy bars
 - Tea
-- Eggs and Bacon if we feel the need to go that route
+- Eggs and Bacon/Sausage if we feel the need to go that route
+> *(Sausage is infinitely easier than bacon)*
+
 - Hot Chocolate
 - Jerky
 - Summer Sausage
