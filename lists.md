@@ -6,7 +6,7 @@
 > - Energy bars
 > - Tea
 > - Eggs and Bacon/Sausage if we feel the need to go that route
-> > *(Sausage is infinitely easier than bacon)*
+> *(Sausage is infinitely easier than bacon)*
 > - Hot Chocolate
 > - Jerky
 > - Summer Sausage
