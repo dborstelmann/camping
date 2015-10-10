@@ -34,33 +34,31 @@
 > - As many water bottles as you have
 > - Rain jacket is a must and rain pants if you have them
 > - Flashlight/Headlamp
-> - It will make your life better if at least one of each below item is synthetic (NOT COTTON)
-> - 1. T-shirts
-> > - 2. Underwear
-> - 3. Pants
-> - 4. Shorts
-> - 5. Long-sleeve shirts (for sun, bugs)
-
-
-- Sun hat
-- Swimsuit
-- Hiking shoes of some sort (running shoes are fine)
-- Socks (synthetic or WOOL please to god bring WOOL)
-- Long underwear
-- Sleepwear
-- Insulated Outerlayers (Jackets, Vest, Etc.)
-- Gloves or mittens
-- Sandals
-- Towel
-- Books
-- Headphones
-- Phone Chargers
-- Sunscreen
-- Lip balm
-- Insect repellent
-- Spare eyeglasses/contact lenses
-- Prescription medications
-- Toothbrush, *insert your personal hygiene needs here*
+> - **It will make your life better if at least one of each below item is synthetic (NOT COTTON)**
+>   1. T-shirts
+>   2. Underwear
+>   3. Pants
+>   4. Shorts
+>   5. Long-sleeve shirts (for sun, bugs)
+> - Sun hat
+> - Swimsuit
+> - Hiking shoes of some sort (running shoes are fine)
+> - Socks (synthetic or WOOL please to god bring WOOL)
+> - Long underwear
+> - Sleepwear
+> - Insulated Outerlayers (Jackets, Vest, Etc.)
+> - Gloves or mittens
+> - Sandals
+> - Towel
+> - Books
+> - Headphones
+> - Phone Chargers
+> - Sunscreen
+> - Lip balm
+> - Insect repellent
+> - Spare eyeglasses/contact lenses
+> - Prescription medications
+> - Toothbrush, *insert your personal hygiene needs here*
 
 ## Group Supplies List *(Dan's List)*
 
