@@ -34,7 +34,7 @@
 > - As many water bottles as you have
 > - Rain jacket is a must and rain pants if you have them
 > - Flashlight/Headlamp
-> - **It will make your life better if at least one of each below item is synthetic (NOT COTTON)**
+> - **It will make your life better if at least one of each below items is synthetic (NOT COTTON)**
 >   1. T-shirts
 >   2. Underwear
 >   3. Pants
@@ -62,48 +62,46 @@
 
 ## Group Supplies List *(Dan's List)*
 
-- Swiss Army Knife
-- Pocket Knife
-- A hammer would be nice because the campsite may lack rocks
-- Playing Cards
-- Soccer Ball or Football, frisbee maybe
-- First-aid kit
+> - Swiss Army Knife
+> - Pocket Knife
+> - A hammer would be nice because the campsite may lack rocks
+> - Playing Cards
+> - Soccer Ball or Football, frisbee maybe
+> - First-aid kit
 
 ## Gear List
 
-- Tents (Alison's big tent and Danny's tent)
-- Grill (Alison)
+> - Tents (Alison's big tent and Danny's tent)
+> - Grill (Alison)
 > *They have a grill at the campsite but as a backup for many reasons*
-
-- Extra tarps or ground sheets
-- Folding Chairs
-- Lanterns
+> - Extra tarps or ground sheets
+> - Folding Chairs
+> - Lanterns
 > *Hopefully Alison has electric ones*
-
-- Toilet paper
-- Dish soap
-- Fuel (A shitload of it)
-- Matches/lighter
-- Charcoal (with lighter fluid)
-- Firewood
-- Frying pan
-- Cook pots
-- Pot grabber
-- Bottle opener/corkscrew
-- Can opener
-- Ziplocs
-- Trash bags
-- Tablecloth and clips (or tape)
-- Coolers
-- Ice
-- Water bottles
-- Paper Towels
-- Plates, bowls
-- Mugs/cups
-- Utensils
-- Knives
-- Spatula
-- Cutting board
-- Foil
-- Sponge
-- Towels
+> - Toilet paper
+> - Dish soap
+> - Fuel (A shitload of it)
+> - Matches/lighter
+> - Charcoal (with lighter fluid)
+> - Firewood
+> - Frying pan
+> - Cook pots
+> - Pot grabber
+> - Bottle opener/corkscrew
+> - Can opener
+> - Ziplocs
+> - Trash bags
+> - Tablecloth and clips (or tape)
+> - Coolers
+> - Ice
+> - Water bottles
+> - Paper Towels
+> - Plates, bowls
+> - Mugs/cups
+> - Utensils
+> - Knives
+> - Spatula
+> - Cutting board
+> - Foil
+> - Sponge
+> - Towels
