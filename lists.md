@@ -67,7 +67,7 @@
 
 - Swiss Army Knife
 - Pocket Knife
-- A hammer would be nice depending on the rockiness of the campsite
+- A hammer would be nice because the campsite may lack rocks
 - Playing Cards
 - Soccer Ball or Football, frisbee maybe
 - First-aid kit
