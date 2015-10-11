@@ -17,19 +17,14 @@
 > - Cooking oil
 > - Salt/pepper
 > - Bouillon cubes
-> - Crackers/chips
+> - Crackers
+> - Chips
 > - Cheese
 > - Chocolate
 > - Marshmallows
 > - Graham Crackers
-> - Spices
-> - Onions
-> - Potatoes
-> - Rice (Rice Pilaf and Couscous are easy)
-> - Pasta (To supplement one night)
-> - Pasta Sauce
-> - Brats and Hotdogs
-> - Veggie Burgers and Burgers
+> - Pasta and Meat Sauce (one night, we'll feed Alison before putting meat in)
+> - Brats and Burgers (one night, veggie for Alison)
 > - Potato Chips
 > - Beer
 > - Gatorade
