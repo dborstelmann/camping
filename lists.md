@@ -1,12 +1,10 @@
 ## Food List
 
 > - Coffee
-> - Dry cereal/granola
-> - Quick-fix oatmeal
+> - Cereal/granola
+> - Oatmeal
 > - Energy bars
 > - Tea
-> - Eggs and Bacon/Sausage if we feel the need to go that route
-> *(Sausage is infinitely easier than bacon)*
 > - Hot Chocolate
 > - Jerky
 > - Summer Sausage
