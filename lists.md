@@ -11,6 +11,8 @@
 > - Jerky
 > - Summer Sausage
 > - Peanut butter
+> - Jam
+> - Bread
 > - Carrots and Veggies
 > - Cooking oil
 > - Salt/pepper
@@ -33,6 +35,8 @@
 > - Gatorade
 > - Soda
 > - Vino
+> - Milk
+> - Orange Juice
 
 ## Individual Supplies List
 > *It's October, it can get cold as shit at night*
