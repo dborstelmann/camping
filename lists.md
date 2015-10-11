@@ -38,7 +38,7 @@
 > - Milk
 > - Orange Juice
 
-## Individual Supplies List
+## Individual Supplies List (This is what everyone needs, everything else is group stuff)
 > *It's October, it can get cold as shit at night*
 
 > - Sleeping Bag
