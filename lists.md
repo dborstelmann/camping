@@ -23,6 +23,7 @@
 > - Graham Crackers
 > - Pasta and Meat Sauce (one night, we'll feed Alison before putting meat in)
 > - Brats and Burgers (one night, veggie for Alison)
+> - Buns
 > - Potato Chips
 > - Beer
 > - Gatorade
@@ -113,9 +114,9 @@
 > - Sponge
 > - Towels
 
-## Still Need
+## Dan needs to remember
 
-> - Need toilet paper
+> - Toilet paper
 > - dish soap
 > - matches/lighter
 > - charcoal
@@ -127,9 +128,4 @@
 > - foil
 > - sponge
 > - towels
-> - plastic spoons
-> - plastic cups
-> - coffee cones
-> - coffee filters
-> - pot grabber
-> - 3 Mugs
+> - coffee cone
