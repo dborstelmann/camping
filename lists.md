@@ -61,6 +61,7 @@
 > - Books
 > - Headphones
 > - Phone Chargers
+> - Sunglasses
 > - Sunscreen
 > - Lip balm
 > - Insect repellent
