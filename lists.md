@@ -112,3 +112,24 @@
 > - Foil
 > - Sponge
 > - Towels
+
+## Still Need
+
+> - Need toilet paper
+> - dish soap
+> - matches/lighter
+> - charcoal
+> - Firewood
+> - ziplocs
+> - trash bags
+> - ice
+> - paper towels
+> - foil
+> - sponge
+> - towels
+> - plastic spoons
+> - plastic cups
+> - coffee cones
+> - coffee filters
+> - pot grabber
+> - 3 Mugs
