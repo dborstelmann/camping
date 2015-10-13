@@ -49,6 +49,7 @@
 >   4. Shorts
 >   5. Long-sleeve shirts (for sun, bugs)
 > - Sun hat
+> - Warm Hat
 > - Swimsuit
 > - Hiking shoes of some sort (running shoes are fine)
 > - Socks (synthetic or WOOL please to god bring WOOL)
